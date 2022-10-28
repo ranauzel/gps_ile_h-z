@@ -1,1 +1,1 @@
-# gps sensörü ile hız verilerinin alan ardunio kodları.
+# gps sensörü ile hız verilerini alan ardunio kodları.
